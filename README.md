@@ -1,4 +1,4 @@
-# Etertainment_Mobile_App_UI
+# Enertainment_Mobile_App_UI
 Step into the world of entertainment with our captivating React Native mobile app. Experience seamless navigation through login, signup, and home pages in a visually stunning interface. Your gateway to entertainment begins here!
 Welcome to the Entertainment Mobile App UI repository! This project showcases a visually appealing React Native mobile app UI tailored for entertainment enthusiasts. Whether you're a developer looking for a stunning UI foundation or an entertainment lover seeking a captivating user experience, this project has you covered.
 
